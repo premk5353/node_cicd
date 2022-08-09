@@ -17,6 +17,6 @@ Your app should now be running on [localhost:5000](http://localhost:5000/).
 
 If you are using jenkins file for the first time it won't work it shows error.
 
-Because of this command ```sh rm -r *``` 
+Because of this command ```rm -r *``` 
 
 Change the ip address in jenkins file to your server ip address

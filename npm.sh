@@ -4,7 +4,7 @@ cd /var/www/html/node-js-sample/
 
 sudo npm install
 
-#To execute is command you need to create service for nodejs application in remote server
+#To execute this command you need to create service for nodejs application in remote server
 
 sudo systemctl restart node.service
 

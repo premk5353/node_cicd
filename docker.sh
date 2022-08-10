@@ -1,7 +1,3 @@
-sudo mkdir -p /var/www/html/
-
-sudo cp /var/backups/* /var/www/html/
-
 cd /var/www/html/
 
 docker build -t nodeimage .

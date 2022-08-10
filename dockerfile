@@ -8,4 +8,4 @@ RUN npm install
 
 EXPOSE 5000
 
-ENTRYPOINT ["npm","start"]
+CMD ["node","cms.js"]

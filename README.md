@@ -28,6 +28,9 @@ create node.service file in this path /etc/systemd/system/
    systemctl start node.service //to start the service
 ```   
 To install pm2 use below command
+
 ``` npm install pm2 -g ```
+
 To start node application by using pm2 use below command
+
 ``` pm2 start cms.js ```

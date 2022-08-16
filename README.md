@@ -22,3 +22,12 @@ Because of this command ```rm -r *```
 Change the ip address in jenkins file to your server ip address
 
 Read npm.sh file to understand the process to start the node application
+
+create node.service file in this path /etc/systemd/system/
+```systemctl daemon-reload //to activate service
+   systemctl start node.service //to start the service
+```   
+To install pm2 use below command
+``` npm install pm2 -g ```
+To start node application by using pm2 use below command
+``` pm2 start cms.js ```

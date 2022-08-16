@@ -20,3 +20,5 @@ If you are using jenkins file for the first time it won't work it shows error.
 Because of this command ```rm -r *``` 
 
 Change the ip address in jenkins file to your server ip address
+
+Read npm.sh file to understand the process to start the node application

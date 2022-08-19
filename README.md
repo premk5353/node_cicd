@@ -2,7 +2,7 @@
 
 Node.js app using [Express 4](http://expressjs.com/).
 
-![image](https://user-images.githubusercontent.com/94901314/185553157-9b2b02ac-2ecd-4f5d-9c50-9f5d89e0a4bc.png)
+![image](https://user-images.githubusercontent.com/94901314/185553291-6738f9ba-4525-4fa6-8f0c-57f948223bf6.png)
 
 ## Running Locally
 

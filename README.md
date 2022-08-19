@@ -2,6 +2,8 @@
 
 Node.js app using [Express 4](http://expressjs.com/).
 
+![image](https://user-images.githubusercontent.com/94901314/185553008-4d38ddfc-80cf-482f-b4d5-1d1ffe0a47ae.png)
+
 ## Running Locally
 
 Make sure you have [Node.js](http://nodejs.org/).

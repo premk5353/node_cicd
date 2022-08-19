@@ -28,7 +28,7 @@ create node.service file in this path /etc/systemd/system/
 systemctl daemon-reload //to activate service
 systemctl start node.service //to start the service
 ```   
-### To install pm2 use below command
+## To install pm2 use below command
 
 ``` npm install pm2 -g ```
 

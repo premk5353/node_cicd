@@ -36,4 +36,4 @@ systemctl start node.service //to start the service
 
 To start node application by using pm2 use below command
 
-``` pm2 start cms.js ```  [pm2.io](https://pm2.io) 
+``` pm2 start cms.js ```  [pm2.io](https://pm2.io)   

@@ -1,5 +1,6 @@
 [Unit]
 Description=Node Application
+After=network-online.target
 
 [Service]
 User=no user
